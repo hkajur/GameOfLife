@@ -132,7 +132,7 @@ class Cell {
 
     /**
      * Returns a String representation of the Object Cell
-     * If the alive condition is true, then it will return "X""
+     * If the alive condition is true, then it will return "X"
      * otherwise, it will return "O"
      *
      * @return      string which will either be dead or alive
